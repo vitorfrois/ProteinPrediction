@@ -1,6 +1,8 @@
 # Protein Prediction
 ## Predição da Localização Subcelular de Proteínas utilizando Computação Bioinspirada
 
+### Murillo Martins e Vítor Fróis
+
 Trabalho utilizando conjuntos de dados multirrótulo onde cada instância representa uma sequência de
 proteína. Cada rótulo (classe) corresponde a uma localização subcelular e as proteínas podem estar presentes
 simultaneamente em dois ou mais compartimentos celulares. O conjunto de dados possui seis localizações
